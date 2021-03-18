@@ -13,7 +13,3 @@ going to update next week
 * As a business owner
 * I want to be able to view and manage the departments, roles, and employees in my company
 * So that I can organize and plan my business
-
-
-
-Here's a link to a video of the application: https://intense-springs-21612.herokuapp.com/notes
