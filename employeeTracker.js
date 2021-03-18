@@ -11,7 +11,16 @@ const connection = mysql.createConnection({
 });
 
 const start = () => {
-    connection.query('SELECT name FROM employeeTracker_db', (err, res) => {
-        if (err) throw err; 
+    inquirer.prompt({
+        type: '',
+        name: '',
+        messages: 'What would you like to do?',
+        choices: [
+            
+        ]
+
     })
+    // connection.query('SELECT name FROM employeeTracker_db', (err, res) => {
+    //     if (err) throw err; 
+    // })
 }

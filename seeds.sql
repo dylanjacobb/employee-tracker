@@ -50,7 +50,7 @@ VALUES ('225000');
 INSERT INTO roleTable (salary)
 VALUES ('250000');
 
-/* for manager table */
+/* for employee table */
 INSERT INTO employeeTable (first_name)
 VALUES ('Bobby');
 INSERT INTO employeeTable (first_name)
@@ -91,7 +91,7 @@ INSERT INTO employeeTable (last_name)
 VALUES ('Walker');
 INSERT INTO employeeTable (last_name)
 VALUES ('Renner');
-INSERT INTO employeeTable (role_id)
+/* INSERT INTO employeeTable (role_id)
 VALUES ('');
 INSERT INTO employeeTable (manager_id)
-VALUES ('');
+VALUES (''); */
